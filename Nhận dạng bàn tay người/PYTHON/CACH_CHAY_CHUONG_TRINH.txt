@@ -1,0 +1,2 @@
+﻿hand_detection(cơ bản): KHI CHẠY CHƯƠNG TRÌNH ĐỂ NHẬN DẠNG BÀN TAY TA PHẢI NẮM CHẶT BÀN TAY THÌ MỚI NHẬN DẠNG ĐƯỢC
+hand_detection(phức tạp): TA CHẠY NHƯ THƯỜNG VÌ NÓ NHẬN DẠNG TỐT HƠN CHƯƠNG TRÌNH CƠ BẢN

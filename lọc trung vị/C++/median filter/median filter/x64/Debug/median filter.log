@@ -1,0 +1,7 @@
+﻿  median filter.cpp
+c:\users\asus\desktop\lê thành phương 59131949\lọc trung vị\c++\median filter\median filter\median filter.cpp(40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  median filter.vcxproj -> C:\Users\ASUS\Desktop\LÊ THÀNH PHƯƠNG 59131949\lọc trung vị\C++\median filter\x64\Debug\median filter.exe

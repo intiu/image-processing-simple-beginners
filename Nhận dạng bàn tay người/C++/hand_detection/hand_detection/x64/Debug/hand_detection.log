@@ -1,0 +1,9 @@
+﻿  hand_detection.cpp
+c:\users\asus\desktop\lê thành phương 59131949\nhận dạng bàn tay người\c++\hand_detection\hand_detection\hand_detection.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\lê thành phương 59131949\nhận dạng bàn tay người\c++\hand_detection\hand_detection\hand_detection.cpp(144): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\desktop\lê thành phương 59131949\nhận dạng bàn tay người\c++\hand_detection\hand_detection\hand_detection.cpp(167): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  hand_detection.vcxproj -> C:\Users\ASUS\Desktop\LÊ THÀNH PHƯƠNG 59131949\Nhận dạng bàn tay người\C++\hand_detection\x64\Debug\hand_detection.exe

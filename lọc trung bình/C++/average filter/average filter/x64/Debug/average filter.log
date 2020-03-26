@@ -1,0 +1,13 @@
+﻿  average filter.cpp
+c:\users\asus\desktop\lê thành phương 59131949\lọc trung bình\c++\average filter\average filter\average filter.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\lê thành phương 59131949\lọc trung bình\c++\average filter\average filter\average filter.cpp(31): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\asus\desktop\lê thành phương 59131949\lọc trung bình\c++\average filter\average filter\average filter.cpp(41): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  average filter.vcxproj -> C:\Users\ASUS\Desktop\LÊ THÀNH PHƯƠNG 59131949\lọc trung bình\C++\average filter\x64\Debug\average filter.exe
